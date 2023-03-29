@@ -10,15 +10,16 @@
 				
 
 <h2>주요 구현 기능</h2>   
-| <img width="1017" alt="스크린샷 2023-03-22 오후 5 32 34" src="https://user-images.githubusercontent.com/101172040/226847089-b7207f24-f78d-41a8-923a-f14110a64cd8.png"> |<img width="1017" alt="스크린샷 2023-03-22 오후 5 34 07" src="https://user-images.githubusercontent.com/101172040/226847159-a2eba971-fa60-47ad-bb6a-9d237715bceb.png">|<img width="1017" alt="스크린샷 2023-03-22 오후 5 38 23" src="https://user-images.githubusercontent.com/101172040/226847182-395dd372-715a-4be1-888a-0d5571dab43b.png">|<img width="1017" alt="스크린샷 2023-03-22 오후 5 37 20" src="https://user-images.githubusercontent.com/101172040/226847208-f341c437-a5b7-4237-903e-ed8b800dc899.png">|
-|:-----:|:----------:|:-------:|:-------:|
-|Level1 : 집|Level2 : 경찰서|Level3 : 총기샵|Level4 : 마을|
 
-1. UI를 이용하여 시작 Scene,  메인 Scene, 엔딩 Scene으로 나누어 버튼 클릭 시 -> 장면 전환       
-2. Text를 이용하여 볼링공과 볼링핀의 충돌을 인식하여 점수 계산 후 -> 화면 출력
-	<details>
-	<summary>코드</summary>
-	</details>
+
+| <img width="452" alt="1" src="https://user-images.githubusercontent.com/101172040/228514725-9c5e42d1-5b66-4cd0-8836-85c38a351b2f.png"> |<img width="452" alt="2" src="https://user-images.githubusercontent.com/101172040/228514799-78580d8f-5d79-4e66-b8cf-9db01bcbcca6.png">|<img width="452" alt="3" src="https://user-images.githubusercontent.com/101172040/228514814-dbbf6aa1-02e3-4944-9f9a-5628228bde0e.png">|
+|:-----:|:----------:|:-------:|
+|<img width="452" alt="4" src="https://user-images.githubusercontent.com/101172040/228514836-a4614665-8ce1-4f7d-af7f-6ea64c6368d2.png">|<img width="452" alt="5" src="https://user-images.githubusercontent.com/101172040/228514857-3eccbdf7-f947-4dc8-aa33-885bd7e9990d.png">|<img width="452" alt="6" src="https://user-images.githubusercontent.com/101172040/228514878-df7b77ac-6938-4959-b9f9-271bd6fe06b7.png">|
+
+
+1. 3가지 메뉴 : 선택한 메뉴에 따라 각각 다른 하위페이지 열림       
+2. 원하는 장소/교통수단 클릭 시, 상세정보 페이지 열림
+
               
 <h2>구현 시 아쉬웠던 점</h2>
 
